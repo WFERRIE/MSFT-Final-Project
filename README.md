@@ -7,3 +7,6 @@ The data used was intraday data courtesy of [Wharton Research Data Services](htt
 In the project, the data was imported, cleaned, and explored. Then, pipelines were created for encoding, smoothing, and feature selection. 14 models were trained and evaluated using pipelines, and the two best models were then chosen to proceed and receive hyperparameter tuning. The final model was chosen, and its trading strategy was evaluated for its cumulative returns across the training set, and the test set. Finally, the CAGR, Phi K, Sharpe Ratio were all calculated to evaluate the model. 
 
 In the end (as expected), the final model was not able to consistently earn positive returns. However, through this process I learned a lot about financial modelling, and machine learning / statistical techniques within the world of finance. I also got an A+!
+
+![TestCumulative](https://github.com/WFERRIE/MSFT-Final-Project/assets/58156317/8b3a061e-ec7f-4ccd-a9ee-a395ad065d0a)
+
